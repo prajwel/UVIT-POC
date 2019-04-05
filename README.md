@@ -1,2 +1,2 @@
-# UVIT-POC related work
-To keep some of the work done by me at the UVIT POC. 
+# UVIT-POC related 
+To keep some of the scripts developed by me at the UVIT POC. 
